@@ -1,3 +1,0 @@
-Testando os comandos do git 
-Testando enviar pelo vs code
-Testando o git clone
